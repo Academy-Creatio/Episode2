@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "74d1e9d7-bf68-4ceb-9ab0-1b726f03950f",
+    "Name": "UsrRequestsPageMixin",
+    "ModifiedOnUtc": "\/Date(1615833666000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "UsrRequestsPageMixin",
+    "DependsOn": []
+  }
+}

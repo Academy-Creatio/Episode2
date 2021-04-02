@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "ee932933-1bf5-20f2-f093-b1568207c263",
+    "Name": "Unlock_Package_MsSQL",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1615800405000)\/",
+    "DependsOn": []
+  }
+}

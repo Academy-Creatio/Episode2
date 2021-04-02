@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Document&quot;" />
+			<Item Name="LocalizableStrings.Tab505941fbTabLabelGroup03c9a727GroupCaption.Value" Value="Document information" />
+			<Item Name="LocalizableStrings.Tab505941fbTabLabelTabCaption.Value" Value="Document information" />
+		</Items>
+	</Group>
+</Resources>

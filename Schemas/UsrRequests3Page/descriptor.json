@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8d5dc4b8-8b8e-4202-839b-df350e04c72f",
+    "Name": "UsrRequests3Page",
+    "ModifiedOnUtc": "\/Date(1615791395000)\/",
+    "Parent": {
+      "UId": "d7862464-6710-4c5c-b896-e8187803dd6e",
+      "Name": "BaseSectionPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Business trip request",
+    "DependsOn": []
+  }
+}

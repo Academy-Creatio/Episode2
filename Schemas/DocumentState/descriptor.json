@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "dce6295e-6adf-4e13-8320-5416258b74cb",
+    "Name": "DocumentState",
+    "ModifiedOnUtc": "\/Date(1615752332000)\/",
+    "Parent": {
+      "UId": "3fa49baa-57d4-40d7-9293-1e6742b1b0dd",
+      "Name": "DocumentState"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Document status",
+    "DependsOn": []
+  }
+}

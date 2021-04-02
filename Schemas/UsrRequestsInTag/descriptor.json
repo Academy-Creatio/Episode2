@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "713b1239-889c-456b-9e7d-c604aba79443",
+    "Name": "UsrRequestsInTag",
+    "ModifiedOnUtc": "\/Date(1615750730000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Requests section record tag",
+    "DependsOn": []
+  }
+}

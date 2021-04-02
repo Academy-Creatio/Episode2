@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7691b5fb-831c-4e6e-8782-7717fc551610",
+    "Name": "UsrProcess_e7561c9",
+    "ModifiedOnUtc": "\/Date(1615899034000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "New vacation request created",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Descriptor": {
+    "UId": "9803ee56-45ba-7a09-31ea-40e685ef8e9a",
+    "Name": "UsrRequestCategory",
+    "ModifiedOnUtc": "\/Date(1615796304000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "a1af85e6-a500-4633-8f50-c5939700d672",
+      "Name": "UsrRequestCategory"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      }
+    ]
+  }
+}

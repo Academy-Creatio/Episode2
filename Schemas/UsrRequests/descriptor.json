@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7e9e7744-8e9d-4660-ba1f-f2bf2e02d082",
+    "Name": "UsrRequests",
+    "ModifiedOnUtc": "\/Date(1615914045000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Requests",
+    "DependsOn": []
+  }
+}

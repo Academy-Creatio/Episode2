@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Requests" />
+			<Item Name="Columns.UsrAccount.Caption" Value="Account" />
+			<Item Name="Columns.UsrAdditionalInfo.Caption" Value="Additional info" />
+			<Item Name="Columns.UsrCategory.Caption" Value="Category" />
+			<Item Name="Columns.UsrClosed.Caption" Value="Closed" />
+			<Item Name="Columns.UsrClosedOn.Caption" Value="Closed on" />
+			<Item Name="Columns.UsrContact.Caption" Value="Contact" />
+			<Item Name="Columns.UsrDaysAvailable.Caption" Value="Number of availbale days" />
+			<Item Name="Columns.UsrDepartment.Caption" Value="Department" />
+			<Item Name="Columns.UsrDueDate.Caption" Value="Due date" />
+			<Item Name="Columns.UsrJobTitle.Caption" Value="Job title" />
+			<Item Name="Columns.UsrName.Caption" Value="Number" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Notes" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+			<Item Name="Columns.UsrSubject.Caption" Value="Subject" />
+			<Item Name="Columns.UsrType.Caption" Value="Request type" />
+			<Item Name="Columns.UsrVacationEndDate.Caption" Value="Vacation end date" />
+			<Item Name="Columns.UsrVacationStart.Caption" Value="Vacation start date" />
+			<Item Name="Columns.UsrVacationType.Caption" Value="Vacation type" />
+		</Items>
+	</Group>
+</Resources>

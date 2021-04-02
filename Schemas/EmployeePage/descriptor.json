@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "fb795166-84e9-4a4b-b724-5649224548d4",
+    "Name": "EmployeePage",
+    "ModifiedOnUtc": "\/Date(1615810906000)\/",
+    "Parent": {
+      "UId": "63fe9a30-63b5-41bb-9d58-bea9f1c7adc1",
+      "Name": "EmployeePage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "EmployeePage",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,61 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b75e7438-c742-4ea8-b672-4ee7e5972c06"
+        },
+        {
+          "SchemaColumnUId": "dcbcf570-397b-4c65-bc5c-ffc91e6cc60a",
+          "Value": "Approvals in section Requests"
+        },
+        {
+          "SchemaColumnUId": "7ac8fc3b-9f5f-40d3-8918-3c18bc54cc23",
+          "Value": "Id"
+        },
+        {
+          "SchemaColumnUId": "1ec0aaa5-139f-e8c5-7269-e96044b51ae1",
+          "Value": "{\"className\":\"Terrasoft.FilterGroup\",\"items\":{},\"logicalOperation\":0,\"isEnabled\":true,\"filterType\":6,\"key\":\"\"}"
+        },
+        {
+          "SchemaColumnUId": "b368f76c-1279-4700-8914-e821390edfdd",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "154371d2-7624-4a1b-8019-e5c202c2260d",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b54b15ab-474f-117c-f6ae-616896984747",
+          "Value": "[{caption:\"Approval purpose\",metaPath:\"c282c824-7aa1-44b4-b8f0-dca0fe3d8b4b\",metaPathCaption:\"Approval purpose\",aggregationType:\"None\",subFilters:null,dataValueType:\"Text\"},{caption:\"Approver\",metaPath:\"f33a75e0-7ed4-4b06-a410-b9e9323645b1\",metaPathCaption:\"Approver\",aggregationType:\"None\",subFilters:null,dataValueType:\"Lookup\"},{caption:\"Set on\",metaPath:\"b4fedd4a-ca45-4ade-960a-c0f4417fe442\",metaPathCaption:\"Set on\",aggregationType:\"None\",subFilters:null,dataValueType:\"DateTime\"},{caption:\"Set by\",metaPath:\"1a4e2821-3b74-460c-8877-c06f743702c5\",metaPathCaption:\"Set by\",aggregationType:\"None\",subFilters:null,dataValueType:\"Lookup\"},{caption:\"Status\",metaPath:\"58ebe36e-7384-4abd-b09c-407c6f508a4d\",metaPathCaption:\"Status\",aggregationType:\"None\",subFilters:null,dataValueType:\"Lookup\"}]"
+        },
+        {
+          "SchemaColumnUId": "2f929142-c949-4965-822b-718d744291fa",
+          "Value": "1a2f9187-e8a1-4030-953a-48416d18149e"
+        },
+        {
+          "SchemaColumnUId": "6e37e4a0-1c37-4475-83aa-dd218ff47173",
+          "Value": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617"
+        },
+        {
+          "SchemaColumnUId": "79a3fa68-aef2-4ed5-86d2-5fb4dc4a7ae3",
+          "Value": "af104408-7045-4e23-ba3e-6647cd6c3dc7"
+        },
+        {
+          "SchemaColumnUId": "8501dbf4-1603-4e8b-b875-e1d9c8de5e8c",
+          "Value": "b4f18d50-f623-0707-9f47-0e42d2b79478",
+          "DisplayValue": "Vacation request report"
+        },
+        {
+          "SchemaColumnUId": "1a6de7b4-2b63-4983-989c-e5f5ad91c559",
+          "Value": "Requests"
+        },
+        {
+          "SchemaColumnUId": "2f560358-9c67-4ddb-8ae8-e9507c0faab9",
+          "Value": "Approvals in section Requests"
+        }
+      ]
+    }
+  ]
+}

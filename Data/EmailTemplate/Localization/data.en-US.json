@@ -1,0 +1,46 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "c3d08aed-289f-42bd-ab96-1625a37b86fe"
+        },
+        {
+          "SchemaColumnUId": "ca53e2c8-0767-4f2c-8a18-2ee5821f134e",
+          "ColumnName": "Name",
+          "Value": "Vacation request approval notification (US)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "4f8c7a24-0d62-4367-bf77-682c35a931c8"
+        },
+        {
+          "SchemaColumnUId": "ca53e2c8-0767-4f2c-8a18-2ee5821f134e",
+          "ColumnName": "Name",
+          "Value": "Vacation request approval report (US)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "918283d0-04ee-472f-b79c-90a1c75c4c6f"
+        },
+        {
+          "SchemaColumnUId": "ca53e2c8-0767-4f2c-8a18-2ee5821f134e",
+          "ColumnName": "Name",
+          "Value": "Vacation request status notification (US)"
+        }
+      ]
+    }
+  ]
+}

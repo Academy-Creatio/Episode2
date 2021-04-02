@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "068d6d40-3e7b-4d9e-9ac4-05fca335f7ac",
+    "Name": "UsrRequests_Vacation_Internal",
+    "ModifiedOnUtc": "\/Date(1615846417000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Vacation request",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "966546d9-1549-e6ca-2072-43688f0758cb",
+    "Name": "Unlock_Packages_PSQL",
+    "DBEngineType": 2,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1615800454000)\/",
+    "DependsOn": []
+  }
+}

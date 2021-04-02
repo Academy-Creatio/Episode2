@@ -1,0 +1,40 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d9e7e1a2-bda5-4637-975e-4c5de77feb42"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "97b4b996-16c4-4292-bfcf-9d47c1e42824",
+          "DisplayValue": "Requests"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "13a74a5b-9132-4c24-a19b-43867db3adee",
+          "DisplayValue": "Current request number"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "66e79cd8-d449-4fed-b104-1b16051a4ef7"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "97b4b996-16c4-4292-bfcf-9d47c1e42824",
+          "DisplayValue": "Requests"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "800497c2-ce14-4c01-a6ba-e57a8457b8f1",
+          "DisplayValue": "Request number mask"
+        }
+      ]
+    }
+  ]
+}

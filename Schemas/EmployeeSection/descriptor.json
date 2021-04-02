@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "a8caf062-cbca-4e2f-b640-e0b0548a9ba9",
+    "Name": "EmployeeSection",
+    "ModifiedOnUtc": "\/Date(1615810569000)\/",
+    "Parent": {
+      "UId": "e04ddbca-f9c0-4de2-8dd9-ad132caf24d5",
+      "Name": "EmployeeSection"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Employees\"",
+    "DependsOn": []
+  }
+}

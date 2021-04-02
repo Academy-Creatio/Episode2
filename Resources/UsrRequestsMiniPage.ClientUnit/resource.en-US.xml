@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="UsrRequestsMiniPage" />
+			<Item Name="LocalizableStrings.DateEmptyError.Value" Value="Date cannot be empty" />
+			<Item Name="LocalizableStrings.InvalidDateMessage.Value" Value="Request End Date has to be greater than the start date" />
+		</Items>
+	</Group>
+</Resources>

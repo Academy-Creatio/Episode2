@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5145d0ba-0044-4bc7-9781-cfbac3cf8950",
+    "Name": "UsrProcess_7e0c840",
+    "ModifiedOnUtc": "\/Date(1615846127000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Calculate number of available vacation days",
+    "DependsOn": []
+  }
+}

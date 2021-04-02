@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "610cf69d-aff2-4fd4-8000-08ab273b4f39",
+    "Name": "UsrRequests_Vacation_Portal",
+    "ModifiedOnUtc": "\/Date(1615880730000)\/",
+    "Parent": {
+      "UId": "d7862464-6710-4c5c-b896-e8187803dd6e",
+      "Name": "BaseSectionPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Vacation request",
+    "DependsOn": []
+  }
+}

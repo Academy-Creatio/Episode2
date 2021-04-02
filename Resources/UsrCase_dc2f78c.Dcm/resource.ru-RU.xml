@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Account.Caption" Value="Контрагент" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="Категория" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="Результат активности" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Application.Caption" Value="Заявка" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Case.Caption" Value="Обращение" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Change.Caption" Value="Изменение" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ConfItem.Caption" Value="Конфигурационная единица" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Contract.Caption" Value="Договор" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="Id задачи" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Document.Caption" Value="Документ" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Duration.Caption" Value="Длительность" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="Длительность (период)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Event.Caption" Value="Мероприятие" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="Контекст выполнения" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.FinApplication.Caption" Value="Заявка" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Incident.Caption" Value="Инцидент" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="Информация по шагу" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Invoice.Caption" Value="Счет" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="Активность завершена" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Lead.Caption" Value="Лид" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Listing.Caption" Value="Листинги" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.OmniChat.Caption" Value="Чат" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Opportunity.Caption" Value="Продажа" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Order.Caption" Value="Заказ" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.OwnerId.Caption" Value="Ответственный" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Problem.Caption" Value="Проблема" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Project.Caption" Value="Проект" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Property.Caption" Value="Объекты недвижимости" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.QueueItem.Caption" Value="Элемент очереди" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Recommendation.Caption" Value="Рекомендация" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Release.Caption" Value="Релиз" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="За сколько напоминать ответственному" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="За сколько напоминать ответственному (период)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Requests.Caption" Value="Заявка" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="Показывать страницу выполнения автоматически" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="Отображать в расписании" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.StartIn.Caption" Value="Через сколько начать выполнение" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="Через сколько начать выполнение (период)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.UsrUsrRequests.Caption" Value="Базовый объект" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ApprovalSchemaUId.Caption" Value="Объект визы" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ApproverEmailTemplate.Caption" Value="Шаблон письма визирующего" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ApproverType.Caption" Value="Тип визирующего" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.AuthorEmailTemplate.Caption" Value="Шаблон письма заявителя" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.CurrentApprovalId.Caption" Value="Идентификатор текущей записи визы" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.EmployeeId.Caption" Value="Сотрудник" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IgnoreEmailErrors.Caption" Value="Игнорировать ошибки отправки почты" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IgnoreEmailErrors.DisplayValue" Value="true" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IsAllowedToDelegate.Caption" Value="Можно делегировать визирование" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IsRequiredDigitalSignature.Caption" Value="Требует ЭЦП" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IsSendEmailToApprovers.Caption" Value="Отправлять письмо визирующим" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IsSendEmailToAuthor.Caption" Value="Отправить email заявителю" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.MasterColumnUId.Caption" Value="Колонка раздела" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Purpose.Caption" Value="Цель визирования" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.RecordId.Caption" Value="Идентификатор записи" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ResultParameter.Caption" Value="Результирующий параметр" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.RoleId.Caption" Value="Роль" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.SectionId.Caption" Value="Раздел" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ApprovalSchemaUId.Caption" Value="Объект визы" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ApproverEmailTemplate.Caption" Value="Шаблон письма визирующего" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ApproverType.Caption" Value="Тип визирующего" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.AuthorEmailTemplate.Caption" Value="Шаблон письма заявителя" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.CurrentApprovalId.Caption" Value="Идентификатор текущей записи визы" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.EmployeeId.Caption" Value="Сотрудник" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IgnoreEmailErrors.Caption" Value="Игнорировать ошибки отправки почты" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IgnoreEmailErrors.DisplayValue" Value="true" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IsAllowedToDelegate.Caption" Value="Можно делегировать визирование" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IsRequiredDigitalSignature.Caption" Value="Требует ЭЦП" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IsSendEmailToApprovers.Caption" Value="Отправлять письмо визирующим" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IsSendEmailToAuthor.Caption" Value="Отправить email заявителю" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.MasterColumnUId.Caption" Value="Колонка раздела" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Purpose.Caption" Value="Цель визирования" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.RecordId.Caption" Value="Идентификатор записи" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ResultParameter.Caption" Value="Результирующий параметр" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.RoleId.Caption" Value="Роль" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.SectionId.Caption" Value="Раздел" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Account.Caption" Value="Контрагент" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="Категория" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.ActivityCategory.DisplayValue" Value="[#Справочник.Категория активности.E-mail#]" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.ActivityId.Caption" Value="Id задачи" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="Результат активности" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Body.Caption" Value="Тело письма" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.BodyConfig.Caption" Value="Конфигурация тела письма для контент билдера" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.BodyTemplateType.Caption" Value="Какое сообщение отправить?" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Case.Caption" Value="Обращение" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Change.Caption" Value="Изменение" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.ConfItem.Caption" Value="Конфигурационная единица" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Contract.Caption" Value="Договор" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Document.Caption" Value="Документ" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Duration.Caption" Value="Длительность" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="Длительность (период)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.EmailTemplateEntityId.Caption" Value="Запись для формирования макросов" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.EmailTemplateId.Caption" Value="Письмо по шаблону" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Event.Caption" Value="Мероприятие" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="Контекст выполнения" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.IgnoreErrors.Caption" Value="Игнорировать ошибки отправки" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.IgnoreErrors.DisplayValue" Value="true" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Importance.Caption" Value="Важность" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Importance.DisplayValue" Value="1" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Incident.Caption" Value="Инцидент" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="Информация по шагу" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Invoice.Caption" Value="Счет" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="Активность завершена" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Lead.Caption" Value="Лид" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Listing.Caption" Value="Листинг" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.OmniChat.Caption" Value="Чат" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Opportunity.Caption" Value="Продажа" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Order.Caption" Value="Заказ" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.OwnerId.Caption" Value="Ответственный" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Problem.Caption" Value="Проблема" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Project.Caption" Value="Проект" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Property.Caption" Value="Объект недвижимости" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.QueueItem.Caption" Value="Элемент очереди" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Recommendation.Caption" Value="Рекомендация" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Release.Caption" Value="Релиз" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="За сколько напоминать ответственному" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="За сколько напоминать ответственному (период)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Requests.Caption" Value="Заявка" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.SendEmailType.Caption" Value="Как выполняется отправка?" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.SendEmailType.DisplayValue" Value="1" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Sender.Caption" Value="От кого" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="Показывать страницу выполнения автоматически" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="Отображать в расписании" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.StartIn.Caption" Value="Через сколько начать выполнение" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="Через сколько начать выполнение (период)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.Subject.Caption" Value="Тема" />
+			<Item Name="Stages.Stage3.Elements.DcmElement6.ProcessFlowElement.Parameters.UsrUsrRequests.Caption" Value="Базовый объект" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Account.Caption" Value="Контрагент" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="Категория" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.ActivityCategory.DisplayValue" Value="[#Справочник.Категория активности.E-mail#]" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.ActivityId.Caption" Value="Id задачи" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="Результат активности" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Body.Caption" Value="Тело письма" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.BodyConfig.Caption" Value="Конфигурация тела письма для контент билдера" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.BodyTemplateType.Caption" Value="Какое сообщение отправить?" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Case.Caption" Value="Обращение" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Change.Caption" Value="Изменение" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.ConfItem.Caption" Value="Конфигурационная единица" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Contract.Caption" Value="Договор" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Document.Caption" Value="Документ" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Duration.Caption" Value="Длительность" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="Длительность (период)" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.EmailTemplateEntityId.Caption" Value="Запись для формирования макросов" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.EmailTemplateId.Caption" Value="Письмо по шаблону" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Event.Caption" Value="Мероприятие" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="Контекст выполнения" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.IgnoreErrors.Caption" Value="Игнорировать ошибки отправки" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.IgnoreErrors.DisplayValue" Value="true" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Importance.Caption" Value="Важность" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Importance.DisplayValue" Value="1" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Incident.Caption" Value="Инцидент" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="Информация по шагу" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Invoice.Caption" Value="Счет" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="Активность завершена" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Lead.Caption" Value="Лид" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Listing.Caption" Value="Листинг" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.OmniChat.Caption" Value="Чат" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Opportunity.Caption" Value="Продажа" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Order.Caption" Value="Заказ" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.OwnerId.Caption" Value="Ответственный" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Problem.Caption" Value="Проблема" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Project.Caption" Value="Проект" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Property.Caption" Value="Объект недвижимости" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.QueueItem.Caption" Value="Элемент очереди" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Recommendation.Caption" Value="Рекомендация" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Release.Caption" Value="Релиз" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="За сколько напоминать ответственному" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="За сколько напоминать ответственному (период)" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Requests.Caption" Value="Заявка" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.SendEmailType.Caption" Value="Как выполняется отправка?" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.SendEmailType.DisplayValue" Value="1" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Sender.Caption" Value="От кого" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="Показывать страницу выполнения автоматически" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="Отображать в расписании" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.StartIn.Caption" Value="Через сколько начать выполнение" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="Через сколько начать выполнение (период)" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.Subject.Caption" Value="Тема" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.UsrUsrRequests.Caption" Value="Базовый объект" />
+			<Item Name="Stages.Stage4.Elements.DcmElement8.ProcessFlowElement.Parameters.AddRights.Caption" Value="Список прав на добавление" />
+			<Item Name="Stages.Stage4.Elements.DcmElement8.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="Объект соответствует условиям" />
+			<Item Name="Stages.Stage4.Elements.DcmElement8.ProcessFlowElement.Parameters.DeleteRights.Caption" Value="Список прав на удаление" />
+			<Item Name="Stages.Stage4.Elements.DcmElement8.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "26ec323b-c96e-0ab4-e204-9415df2e2505",
+    "Name": "Request_portal",
+    "ModifiedOnUtc": "\/Date(1617356590000)\/",
+    "Maintainer": "Customer",
+    "Description": "TechHour Episode 2",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      }
+    ]
+  }
+}

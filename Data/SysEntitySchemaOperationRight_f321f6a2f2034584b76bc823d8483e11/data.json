@@ -1,0 +1,1114 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "daea773a-5d32-4a6d-aa7b-d7415830b577"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "c82ab6f0-0e36-4376-9ab3-c583d714b7b6"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "50c94c9a-362c-4b64-b04c-3c2da7838382"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 3
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "25d7c1ab-1de0-4501-b402-02e0e5a72d6e"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "05057294-5f53-420a-8288-ff2dcfc327f9"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "7a269220-a657-4b5f-bfb4-ebe596e419d8"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b5034379-3e5f-4674-a5c2-1d19b3355ac9"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "7e9e7744-8e9d-4660-ba1f-f2bf2e02d082"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cf057452-bf75-4516-8ce4-e64163ab1e7a"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "7e9e7744-8e9d-4660-ba1f-f2bf2e02d082"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d5f95ce9-1c17-4261-b516-60fe0b2b9d64"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "140ced61-9f9f-42fd-8928-c050649c3e8b"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b95cb482-9873-4c3e-88c8-35a2f48b68ba"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "140ced61-9f9f-42fd-8928-c050649c3e8b"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "02e2fde6-d9f2-43b1-9037-0ed1c1beb893"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "ffe29f0a-d8dd-4021-b238-16576ccb5263"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6544a8e7-1ab2-4f7a-9025-3e459915d15c"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "ffe29f0a-d8dd-4021-b238-16576ccb5263"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c8c63d46-90e6-4253-a647-93d162537da0"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 2
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "7e9e7744-8e9d-4660-ba1f-f2bf2e02d082"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8314c0d3-3f42-46e7-87dc-7e6cdb3d06d9"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "7e9e7744-8e9d-4660-ba1f-f2bf2e02d082"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a0bf06cd-1293-45a6-92b7-b4b6fb504ee9"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "57361931-4835-4478-bc7f-bd3872815b06"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ddbfed68-7229-4a4f-98fe-c7c625332bf6"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "57361931-4835-4478-bc7f-bd3872815b06"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5d35195c-1c9e-4e54-ab28-6069f54429bb"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "391cf3f9-8c18-4871-9bd4-7c2db997b1a9"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b35f095a-270a-4706-bac6-f2aae91ec848"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "391cf3f9-8c18-4871-9bd4-7c2db997b1a9"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "013a48d6-7ea4-47ce-99a0-1337bf28d44f"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "713b1239-889c-456b-9e7d-c604aba79443"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "75addcf5-bc1c-4424-8141-f60d624d2e3e"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "713b1239-889c-456b-9e7d-c604aba79443"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2fdba5c9-e7ac-40f3-a424-152f82c3c80e"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "1147a0a2-bf4a-430b-9be0-74163464adb6"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "70214cc8-bc49-4f8f-b616-e499352ecd09"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "1147a0a2-bf4a-430b-9be0-74163464adb6"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "004c69db-54b0-45ce-9404-315d37a5db84"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "eb97ed59-5055-4d03-bf98-979dd0b1bed0"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7305ded4-1be2-4a3d-ae8e-4640a451b1e2"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "eb97ed59-5055-4d03-bf98-979dd0b1bed0"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4b822e6f-7272-4f77-8ede-d5e438cdc3eb"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "a1af85e6-a500-4633-8f50-c5939700d672"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b7516f39-2777-4c13-8154-254ac59b0466"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "a1af85e6-a500-4633-8f50-c5939700d672"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b12d4c12-505f-462d-bfe3-ad02dc8cfb44"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "149d2eaf-cbd2-49fa-b565-637748ff823c"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b628b96f-f096-466e-af70-e3c0b8cd2662"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "149d2eaf-cbd2-49fa-b565-637748ff823c"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e2e49250-f54e-4577-8470-9c35eb187c48"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 2
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "16be3651-8fe2-4159-8dd0-a803d4683dd3"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cf2755b1-d23d-4c02-81c5-9cbb1d107632"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 3
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "16be3651-8fe2-4159-8dd0-a803d4683dd3"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b6dcebc7-a4d9-4c4c-b06e-0f5703e9a8a3"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "c82ab6f0-0e36-4376-9ab3-c583d714b7b6"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "26786b8a-7b2b-4ef2-9037-ae5c2d46e6ae"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All portal users"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "25d7c1ab-1de0-4501-b402-02e0e5a72d6e"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4c54f6ca-6d48-4dd7-9a73-b2f03b3b7c03"
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "7a269220-a657-4b5f-bfb4-ebe596e419d8"
+        }
+      ]
+    }
+  ]
+}

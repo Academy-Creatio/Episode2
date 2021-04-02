@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d819cad9-2a35-4582-8eb6-2dd599228193",
+    "Name": "UsrCase_dc2f78c",
+    "ModifiedOnUtc": "\/Date(1615915084000)\/",
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Vacation request cycle",
+    "DependsOn": []
+  }
+}

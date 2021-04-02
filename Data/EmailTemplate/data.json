@@ -1,0 +1,247 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c3d08aed-289f-42bd-ab96-1625a37b86fe"
+        },
+        {
+          "SchemaColumnUId": "47e72ecd-b21c-4b09-933e-6c1263381425",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "54425b16-8b5b-40a1-baf1-3997560a6b0e",
+          "Value": "<!doctype html><html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\"><head><title></title><!--[if !mso]><!-- --><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><!--<![endif]--><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><style type=\"text/css\">#outlook a { padding:0; }\n          body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }\n          table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }\n          img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }\n          p { display:block;margin:13px 0; }</style><!--[if mso]>\n        <xml>\n        <o:OfficeDocumentSettings>\n          <o:AllowPNG/>\n          <o:PixelsPerInch>96</o:PixelsPerInch>\n        </o:OfficeDocumentSettings>\n        </xml>\n        <![endif]--><!--[if lte mso 11]>\n        <style type=\"text/css\">\n          .mj-outlook-group-fix { width:100% !important; }\n        </style>\n        <![endif]--><style type=\"text/css\">@media only screen and (min-width:480px) {\n        .mj-column-per-100 { width:100% !important; max-width: 100%; }\n      }</style><style type=\"text/css\">@media only screen and (max-width:480px) {\n      table.mj-full-width-mobile { width: 100% !important; }\n      td.mj-full-width-mobile { width: auto !important; }\n    }</style><style type=\"text/css\">.mj-block {font-family: Arial, Helvetica, sans-serif;font-size: 13px;}</style></head><body style=\"background-color:#ffffff;\"><div style=\"background-color:#ffffff;\"><!--[if mso | IE]><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"mj-block-outlook\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div class=\"mj-block\" style=\"margin:0px auto;max-width:600px;\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"width:100%;\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" width=\"600px\" ><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div style=\"margin:0px auto;max-width:600px;\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"width:100%;\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" style=\"vertical-align:top;width:600px;\" ><![endif]--><div class=\"mj-column-per-100 mj-outlook-group-fix\" style=\"font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"vertical-align:top;\" width=\"100%\"><tr><td align=\"left\" style=\"font-size:0px;padding:10px 25px;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;word-break:break-word;\"><div style=\"font-family:Arial, Helvetica, sans-serif;font-size:13px;line-height:22px;text-align:left;color:#000001;\">Hello&nbsp;[#Recipient.Contact name#],&nbsp;<br><br>The request for vacation&nbsp;[#UsrRequests.UsrName#] requires your approval.&nbsp;<br><br>Request details:&nbsp;<br>Applicant account:&nbsp;[#UsrRequests.UsrAccount#]<br>Applicant:&nbsp;[#UsrRequests.UsrContact#]<br>Vacation type:&nbsp;[#UsrRequests.UsrVacationType#]<br>Vacation start date:&nbsp;[#UsrRequests.UsrVacationStart#]<br>Vacation end date:&nbsp;[#UsrRequests.UsrVacationEndDate#]<br>Number of available days:&nbsp;[#UsrRequests.UsrDaysAvailable#]</div></td></tr><tr><td align=\"center\" vertical-align=\"middle\" style=\"font-size:0px;padding:5px 10px 5px 10px;word-break:break-word;\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"border-collapse:separate;line-height:100%;\"><tr><td align=\"center\" bgcolor=\"#19c519\" role=\"presentation\" style=\"border:none;border-radius:3px;cursor:auto;mso-padding-alt:5px 10px 5px 10px;background:#19c519;\" valign=\"middle\"><p style=\"display:inline-block;background:#19c519;color:#ffffff;font-family:Arial, Helvetica, sans-serif;font-size:13px;font-weight:normal;line-height:22px;margin:0;text-decoration:none;text-transform:none;padding:5px 10px 5px 10px;mso-padding-alt:0px;border-radius:3px;\"><strong>PROCEED TO REQUEST</strong></p></td></tr></table></td></tr><tr><td align=\"center\" style=\"font-size:0px;padding:0;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;word-break:break-word;\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"border-collapse:collapse;border-spacing:0px;\"><tbody><tr><td style=\"width:127px;\"><img height=\"auto\" src=\"data:image/png;base64,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\" style=\"border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;\" width=\"127\"></td></tr></tbody></table></td></tr></table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></div></body></html>"
+        },
+        {
+          "SchemaColumnUId": "085d7c7c-fdbc-443a-ad06-1f04ace34173",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f73ea119-e10f-4db3-a89f-02b338f69444",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "2e7c35e3-0774-4a4a-bea5-6ce4c8de1465",
+          "Value": "Vacation request [#UsrRequests.UsrName#] requires your approval"
+        },
+        {
+          "SchemaColumnUId": "698c2960-3832-4ba4-ad56-8a6489b32ad4",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "26bd9f25-0d50-4c47-829f-8b286576317c",
+          "Value": "1a2f9187-e8a1-4030-953a-48416d18149e",
+          "DisplayValue": "Approvals in section Requests"
+        },
+        {
+          "SchemaColumnUId": "e6618002-83f7-419a-a866-63ea7599b123",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "2f0c4548-e688-4561-a3a3-e6e9422ff3f7",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b1b8aa8c-787f-42e0-8af1-603d1761f75a",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "aa4c5784-7f68-47d8-b7bb-ee3f89221ac8",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "1fea7f02-7faa-4a8b-a1f9-ee4e05fef97d",
+          "Value": "eba50db7-b6db-4d7b-a953-589068e1c32e",
+          "DisplayValue": "EmailTemplatec3d08aed-289f-42bd-ab96-1625a37b86fe.png"
+        },
+        {
+          "SchemaColumnUId": "feab52f3-9df5-4499-8425-855973838905",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "613d189f-c6a0-4ec4-b2b0-a43199cacef4",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "cf75d513-0d42-439c-b19f-8c7fe4234460",
+          "Value": "e75ac3fe-be9b-4a01-87db-c7dffd354f8c",
+          "DisplayValue": "Personal message to each recipient"
+        },
+        {
+          "SchemaColumnUId": "08aeb0b2-b929-4208-900f-d5d58700a872",
+          "Value": "74ff0cee-6593-482f-a62f-6dde6e17ab5e",
+          "DisplayValue": "Email template"
+        },
+        {
+          "SchemaColumnUId": "382c1794-3e8d-4895-91ce-02c9f5e3553e",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4f8c7a24-0d62-4367-bf77-682c35a931c8"
+        },
+        {
+          "SchemaColumnUId": "47e72ecd-b21c-4b09-933e-6c1263381425",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "54425b16-8b5b-40a1-baf1-3997560a6b0e",
+          "Value": "<!doctype html><html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\"><head><title></title><!--[if !mso]><!-- --><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><!--<![endif]--><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><style type=\"text/css\">#outlook a { padding:0; }\n          body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }\n          table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }\n          img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }\n          p { display:block;margin:13px 0; }</style><!--[if mso]>\n        <xml>\n        <o:OfficeDocumentSettings>\n          <o:AllowPNG/>\n          <o:PixelsPerInch>96</o:PixelsPerInch>\n        </o:OfficeDocumentSettings>\n        </xml>\n        <![endif]--><!--[if lte mso 11]>\n        <style type=\"text/css\">\n          .mj-outlook-group-fix { width:100% !important; }\n        </style>\n        <![endif]--><style type=\"text/css\">@media only screen and (min-width:480px) {\n        .mj-column-per-100 { width:100% !important; max-width: 100%; }\n      }</style><style type=\"text/css\">@media only screen and (max-width:480px) {\n      table.mj-full-width-mobile { width: 100% !important; }\n      td.mj-full-width-mobile { width: auto !important; }\n    }</style><style type=\"text/css\">.mj-block {font-family: Arial, Helvetica, sans-serif;font-size: 13px;}</style></head><body style=\"background-color:#ffffff;\"><div style=\"background-color:#ffffff;\"><!--[if mso | IE]><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"mj-block-outlook\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div class=\"mj-block\" style=\"margin:0px auto;max-width:600px;\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"width:100%;\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" width=\"600px\" ><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div style=\"margin:0px auto;max-width:600px;\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"width:100%;\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" style=\"vertical-align:top;width:600px;\" ><![endif]--><div class=\"mj-column-per-100 mj-outlook-group-fix\" style=\"font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"vertical-align:top;\" width=\"100%\"><tr><td align=\"left\" style=\"font-size:0px;padding:10px 25px;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;word-break:break-word;\"><div style=\"font-family:Arial, Helvetica, sans-serif;font-size:13px;line-height:22px;text-align:left;color:#000001;\">Hello,<br><br>Attached is approval report for Request&nbsp;[#UsrName#].<br><br>Regards,<br>Operations team<br><br>&nbsp;</div></td></tr><tr><td align=\"center\" style=\"font-size:0px;padding:0;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;word-break:break-word;\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"border-collapse:collapse;border-spacing:0px;\"><tbody><tr><td style=\"width:127px;\"><img height=\"auto\" src=\"data:image/png;base64,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\" style=\"border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;\" width=\"127\"></td></tr></tbody></table></td></tr></table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></div></body></html>"
+        },
+        {
+          "SchemaColumnUId": "085d7c7c-fdbc-443a-ad06-1f04ace34173",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f73ea119-e10f-4db3-a89f-02b338f69444",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "2e7c35e3-0774-4a4a-bea5-6ce4c8de1465",
+          "Value": "Approval report for  vacation request [#UsrName#] "
+        },
+        {
+          "SchemaColumnUId": "698c2960-3832-4ba4-ad56-8a6489b32ad4",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "26bd9f25-0d50-4c47-829f-8b286576317c",
+          "Value": "7e9e7744-8e9d-4660-ba1f-f2bf2e02d082",
+          "DisplayValue": "Requests"
+        },
+        {
+          "SchemaColumnUId": "e6618002-83f7-419a-a866-63ea7599b123",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "2f0c4548-e688-4561-a3a3-e6e9422ff3f7",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b1b8aa8c-787f-42e0-8af1-603d1761f75a",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "aa4c5784-7f68-47d8-b7bb-ee3f89221ac8",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "1fea7f02-7faa-4a8b-a1f9-ee4e05fef97d",
+          "Value": "55ccbb09-9505-4e2b-8d7c-9aa84bc3c901",
+          "DisplayValue": "EmailTemplate4f8c7a24-0d62-4367-bf77-682c35a931c8.png"
+        },
+        {
+          "SchemaColumnUId": "feab52f3-9df5-4499-8425-855973838905",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "613d189f-c6a0-4ec4-b2b0-a43199cacef4",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "cf75d513-0d42-439c-b19f-8c7fe4234460",
+          "Value": "e75ac3fe-be9b-4a01-87db-c7dffd354f8c",
+          "DisplayValue": "Personal message to each recipient"
+        },
+        {
+          "SchemaColumnUId": "08aeb0b2-b929-4208-900f-d5d58700a872",
+          "Value": "74ff0cee-6593-482f-a62f-6dde6e17ab5e",
+          "DisplayValue": "Email template"
+        },
+        {
+          "SchemaColumnUId": "382c1794-3e8d-4895-91ce-02c9f5e3553e",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "918283d0-04ee-472f-b79c-90a1c75c4c6f"
+        },
+        {
+          "SchemaColumnUId": "47e72ecd-b21c-4b09-933e-6c1263381425",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "54425b16-8b5b-40a1-baf1-3997560a6b0e",
+          "Value": "<!doctype html><html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\"><head><title></title><!--[if !mso]><!-- --><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><!--<![endif]--><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><style type=\"text/css\">#outlook a { padding:0; }\n          body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }\n          table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }\n          img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }\n          p { display:block;margin:13px 0; }</style><!--[if mso]>\n        <xml>\n        <o:OfficeDocumentSettings>\n          <o:AllowPNG/>\n          <o:PixelsPerInch>96</o:PixelsPerInch>\n        </o:OfficeDocumentSettings>\n        </xml>\n        <![endif]--><!--[if lte mso 11]>\n        <style type=\"text/css\">\n          .mj-outlook-group-fix { width:100% !important; }\n        </style>\n        <![endif]--><style type=\"text/css\">@media only screen and (min-width:480px) {\n        .mj-column-per-100 { width:100% !important; max-width: 100%; }\n      }</style><style type=\"text/css\">@media only screen and (max-width:480px) {\n      table.mj-full-width-mobile { width: 100% !important; }\n      td.mj-full-width-mobile { width: auto !important; }\n    }</style><style type=\"text/css\">.mj-block {font-family: Arial, Helvetica, sans-serif;font-size: 13px;}</style></head><body style=\"background-color:#ffffff;\"><div style=\"background-color:#ffffff;\"><!--[if mso | IE]><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"mj-block-outlook\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div class=\"mj-block\" style=\"margin:0px auto;max-width:600px;\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"width:100%;\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" width=\"600px\" ><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div style=\"margin:0px auto;max-width:600px;\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"width:100%;\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" style=\"vertical-align:top;width:600px;\" ><![endif]--><div class=\"mj-column-per-100 mj-outlook-group-fix\" style=\"font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"vertical-align:top;\" width=\"100%\"><tr><td align=\"left\" style=\"font-size:0px;padding:10px 25px;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;word-break:break-word;\"><div style=\"font-family:Arial, Helvetica, sans-serif;font-size:13px;line-height:22px;text-align:left;color:#000001;\">Hello&nbsp;[#Recipient.Contact name#],&nbsp;<br><br>The status of your vacation request [#UsrRequests.UsrName#] has been changed to&nbsp;[#UsrStatus#].&nbsp;<br><br>Regards,<br>Operations team<br><br>&nbsp;</div></td></tr><tr><td align=\"center\" style=\"font-size:0px;padding:0;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;word-break:break-word;\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"border-collapse:collapse;border-spacing:0px;\"><tbody><tr><td style=\"width:127px;\"><img height=\"auto\" src=\"data:image/png;base64,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\" style=\"border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;\" width=\"127\"></td></tr></tbody></table></td></tr></table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></div></body></html>"
+        },
+        {
+          "SchemaColumnUId": "085d7c7c-fdbc-443a-ad06-1f04ace34173",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f73ea119-e10f-4db3-a89f-02b338f69444",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "2e7c35e3-0774-4a4a-bea5-6ce4c8de1465",
+          "Value": "The status of your vacation request [#UsrName#] has been changed"
+        },
+        {
+          "SchemaColumnUId": "698c2960-3832-4ba4-ad56-8a6489b32ad4",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "26bd9f25-0d50-4c47-829f-8b286576317c",
+          "Value": "7e9e7744-8e9d-4660-ba1f-f2bf2e02d082",
+          "DisplayValue": "Requests"
+        },
+        {
+          "SchemaColumnUId": "e6618002-83f7-419a-a866-63ea7599b123",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "2f0c4548-e688-4561-a3a3-e6e9422ff3f7",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b1b8aa8c-787f-42e0-8af1-603d1761f75a",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "aa4c5784-7f68-47d8-b7bb-ee3f89221ac8",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "1fea7f02-7faa-4a8b-a1f9-ee4e05fef97d",
+          "Value": "e6dc86bf-62f1-4a29-8a24-c844717c48aa",
+          "DisplayValue": "EmailTemplate918283d0-04ee-472f-b79c-90a1c75c4c6f.png"
+        },
+        {
+          "SchemaColumnUId": "feab52f3-9df5-4499-8425-855973838905",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "613d189f-c6a0-4ec4-b2b0-a43199cacef4",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "cf75d513-0d42-439c-b19f-8c7fe4234460",
+          "Value": "e75ac3fe-be9b-4a01-87db-c7dffd354f8c",
+          "DisplayValue": "Personal message to each recipient"
+        },
+        {
+          "SchemaColumnUId": "08aeb0b2-b929-4208-900f-d5d58700a872",
+          "Value": "74ff0cee-6593-482f-a62f-6dde6e17ab5e",
+          "DisplayValue": "Email template"
+        },
+        {
+          "SchemaColumnUId": "382c1794-3e8d-4895-91ce-02c9f5e3553e",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Descriptor": {
+    "UId": "99f94230-7188-451a-8d0a-2b33b93eba4a",
+    "Name": "SspPageDetail_SspPageDetailsManager_e942eeb402f745da99e20e1ebd5264aa",
+    "ModifiedOnUtc": "\/Date(1615791405000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "8974e567-f0e1-4ce6-96f5-d663ca93cb07",
+      "Name": "SspPageDetail"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "8f11220c-7647-4c8c-90b9-b79e03e8f6ee",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "EntitySchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "f8cd1f5c-b6e0-4a37-88ee-05929d09b2e8",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CardSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "3205952e-7126-45fa-b720-9cd99f7875ae",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysDetail",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      }
+    ]
+  }
+}

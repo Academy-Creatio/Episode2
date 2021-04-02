@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "88b1efec-ceb6-435c-a4b1-093677e242dd",
+    "Name": "UsrDocument1Page",
+    "ModifiedOnUtc": "\/Date(1615752282000)\/",
+    "Parent": {
+      "UId": "d7862464-6710-4c5c-b896-e8187803dd6e",
+      "Name": "BaseSectionPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Document\"",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "bda7614f-5640-4dc4-b2a4-61597b6294d4",
+    "Name": "UsrProcess_44ad152",
+    "ModifiedOnUtc": "\/Date(1615840165000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Change access permissions for vacation request approval",
+    "DependsOn": []
+  }
+}

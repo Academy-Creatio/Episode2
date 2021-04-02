@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Business trip request" />
+			<Item Name="LocalizableStrings.Tabe492984cTabLabelGroup1be62f03GroupCaption.Value" Value="Business trip info" />
+			<Item Name="LocalizableStrings.Tabe492984cTabLabelTabCaption.Value" Value="Request information" />
+		</Items>
+	</Group>
+</Resources>

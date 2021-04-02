@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Vacation request" />
+			<Item Name="Description" Value="Vacation request portal page" />
+			<Item Name="LocalizableStrings.DateEmptyError.Value" Value="Date cannot be empty" />
+			<Item Name="LocalizableStrings.InvalidDateMessage.Value" Value="Request End Date has to be greater than the start date" />
+			<Item Name="LocalizableStrings.Tab1e6d79b8TabLabelGroup76c644c6GroupCaption.Value" Value="Vacation request information" />
+			<Item Name="LocalizableStrings.Tab1e6d79b8TabLabelTabCaption.Value" Value="Request information" />
+		</Items>
+	</Group>
+</Resources>
